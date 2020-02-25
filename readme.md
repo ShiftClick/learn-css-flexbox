@@ -16,4 +16,4 @@ Your task is to improve the layout and spacing of the blog posts in index.html. 
 
 ## Getting Started
 
-Clone this repo and open `style.css`.
+Clone this repo and open `style.css`. Edit away! (but don't touch the HTML!)
