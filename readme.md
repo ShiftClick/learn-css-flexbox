@@ -2,7 +2,7 @@
 
 A short intro to implementing effective layout and spacing with CSS.
 
-![a GIF screengrab showing scrolling through a styled list component](https://i.gyazo.com/df6e0865fea1434a32bbfa739aecb527.gif)
+![a GIF screengrab showing scrolling through a styled list component](https://i.gyazo.com/92a4f3cdaed5d4caaf8c51f0ca19c388.gif)
 
 ## The Challenge
 
