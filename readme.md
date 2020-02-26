@@ -17,3 +17,8 @@ Your task is to emulate the layout and spacing of the blog posts shown in the GI
 ## Getting Started
 
 Clone this repo and open `index.html` in your web browser to view the unstyled list of blog posts. Open `style.css` and style away! (but don't edit the `index.html`!)
+
+## Stretch goal
+
+Add a media query to `style.css` to create a two
+column layout for screens wider than 800px.
